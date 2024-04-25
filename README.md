@@ -1,9 +1,16 @@
 # ViTPose_keypoint_extractor
 
- Tested on Ubuntu 23.10 - Python 3.11.6
+## Compatibility
+Tested on Ubuntu 23.10 with Python 3.11.6.
 
- Install Pytorch: https://pytorch.org/
+## Installation
 
- Install requirements: pip install -r requirements.txt
+1. **PyTorch**: Install PyTorch by following the instructions at [https://pytorch.org/](https://pytorch.org/).
 
- Ready to use!
+2. **Requirements**: Install additional dependencies using pip:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Ready to Use!**
